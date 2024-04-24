@@ -26,7 +26,7 @@ function Home() {
         01110010 01100101 00100000 01110011 11101001 01110010 01100001 00101110
       </h3>
       <a href="https://www.invertexto.com/codigo-binario" target="_blank">
-        Você precisara desse link 👈🏻{" "}
+        Você precisara desse link 👈🏻 🤞{" "}
       </a>
     </>
   );
