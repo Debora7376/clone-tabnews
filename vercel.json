@@ -3,6 +3,10 @@
     {
       "source": "/bio",
       "destination": "https://bio-hazel.vercel.app/"
+    },
+    {
+      "source": "/bio/assets/:match*",
+      "destination": "https://bio-projeto.vercel.app/assets/:match*"
     }
   ]
 }
