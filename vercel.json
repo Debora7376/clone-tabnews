@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/bio",
+      "destination": "https://bio-hazel.vercel.app/"
+    }
+  ]
+}
